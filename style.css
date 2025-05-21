@@ -81,7 +81,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('https://ibb.co/qF52QX1t') no-repeat;
+    background: url('/images/home-bg.jpg') no-repeat center/cover;
     background-size: cover;
     background-position: center;
 }
